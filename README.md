@@ -1,4 +1,4 @@
-# Predictive-Maintainence-using-Data Analysis-&-Time-Series-Forecasting
+# Time-Series-Fault-Monitor
 
 <img src="https://docs.microsoft.com/en-us/azure/architecture/industries/manufacturing/images/predictive-maintenance-solution/model.png" width="1000"/>
 
